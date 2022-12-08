@@ -1,0 +1,3 @@
+import 'package:shubhithasenergysolutions_admin/scr/features/authentication/controllers/navigation_controller.dart';
+
+NavigationController navigationController = NavigationController.instance;
